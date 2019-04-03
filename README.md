@@ -1,5 +1,5 @@
-# Downloader-Script
-A python script to download youtube videos via sites like "genyoutube" and "savefrom net". This can also download the latest episode of any "Anime".
+# Downloader-Script(WEB-CRAWLER)
+A Python Web-Crawler to download youtube videos via sites like "genyoutube" and "savefrom net". This can also download the latest episode of any "Anime".
 
 
 
