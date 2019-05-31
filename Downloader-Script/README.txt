@@ -22,7 +22,7 @@ Other dependencies include :
  (Included in Reqs.tar.gz)
  
 ###
-This is a comand line script for Linux, which does the following:
+This is a command line script for Linux, which does the following:
 
 1) Downloads the Youtube video if its link is copied to the ClipBoard
 2) If no link is found then asks if you: 
